@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="TestApp">
 		<version>2.0.0.0</version>
-		<url>https://https://www.dropbox.com/s/b1axsdh0uite0nj/TestApp.exe?dl=0</url>
+		<url>https://github.com/Vixon1024/server/blob/9832cd3a97d9f252e7fa9783ccbea2b0a606774e/TestApp.exe</url>
 		<fileName>TestApp2.exe</fileName>
 		<md5>f54d5fe0c05c1e3889971640e1025fcf</md5>
 		<description>Initail update</description>
